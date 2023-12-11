@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/SOUZ - FIM DA LINHA.wav-937509944a914f54b01c3c583a4a2838.sample"
+
+[deps]
+
+source_file="res://Sounds/SOUZ - FIM DA LINHA.wav"
+dest_files=[ "res://.import/SOUZ - FIM DA LINHA.wav-937509944a914f54b01c3c583a4a2838.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

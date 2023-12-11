@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/The Legend of Zelda Theme - Epic Orchestral Version-YConverter.app.wav-23e200ae6870fb625a9dfab33425fb75.sample"
+
+[deps]
+
+source_file="res://Sounds/The Legend of Zelda Theme - Epic Orchestral Version-YConverter.app.wav"
+dest_files=[ "res://.import/The Legend of Zelda Theme - Epic Orchestral Version-YConverter.app.wav-23e200ae6870fb625a9dfab33425fb75.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

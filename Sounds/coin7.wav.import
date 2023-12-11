@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/coin7.wav-98a94c7601e14defb7299614544a34e3.sample"
+
+[deps]
+
+source_file="res://Sounds/coin7.wav"
+dest_files=[ "res://.import/coin7.wav-98a94c7601e14defb7299614544a34e3.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
